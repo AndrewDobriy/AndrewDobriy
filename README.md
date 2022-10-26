@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/AfpXE9om1TtkcjpKhI/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="margin-top: 10px">
   <a href="https://t.me/Dobriyman">
-    <img style="margin-top: 10px;" src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram Badge" width="100px"/>
+    <img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram Badge" width="100px"/>
   </a>
 </div>
 
