@@ -9,8 +9,20 @@
 </div>
 
 <h1 align="center">
-  Hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+### :man_technologist: About Me :
+
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+:telescope: I’m a junior frontend developer, I plan to work in a large team.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve tasks on CodeWars and play games.
